@@ -1,0 +1,10 @@
+{
+  "description": "Helps displaced African freelancers invoice international clients in USD, receive payouts via M-Pesa, and share verified income records with banks.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
