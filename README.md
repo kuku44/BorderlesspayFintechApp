@@ -75,8 +75,7 @@ Open BorderlessPay
 👨‍💻 Founder
 
 Roben Badradin
-
-Computer Science Student | Aspiring Software Developer | Fintech Innovator
+PLP Student | Aspiring Software Developer | Fintech Innovator
 
 🤝 Project Contribution
 
